@@ -1,6 +1,6 @@
 # MyInfo
 
-[Mexc]
+##[Mexc]
 USDT ERC20
 0x4cf3421fa9e5e77c1d5ba359d5c79cd1e5dd5459
 
@@ -13,7 +13,7 @@ USDT TRC20
 ETH ERC20
 0x4cf3421fa9e5e77c1d5ba359d5c79cd1e5dd5459
 
-[BC]
+##[BC]
 USDT ERC20
 0xf21aCE29B8324A360fbe311D5bf211db8EF7e8e2
 
