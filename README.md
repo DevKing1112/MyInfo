@@ -35,3 +35,10 @@ TY3Ldwy7EBXLHA7uqYseu415ttaLD33ZoJ
 ETH ERC20
 
 0xf21aCE29B8324A360fbe311D5bf211db8EF7e8e2
+
+Exodus
+XRP
+r9Gh3tP132QVUEjiusHjFdBbMjKJfcHVrM
+
+ADA
+addr1q95cxe6e2ql6e4dd4692jrdh66330ftjr6mvuyhtkr5ue9mfsdn4j5pl4n26mt524yxm044rz7jhy84kecfwhv8fejtsdsa9q2
